@@ -1,0 +1,82 @@
+[
+	{
+		"PAT_ID" : "61",
+		"PAT_VISIT_ID" : 1,
+		"DIAGNOSIS_ID" : 1,
+		"DIAGNOSIS_NAME" : "Breast cancer, female",
+		"NAME" : "hist_typ",
+		"VALUE" : "Invasive lobular carcinoma"
+	},
+	{
+		"PAT_ID" : "61",
+		"PAT_VISIT_ID" : 1,
+		"DIAGNOSIS_ID" : 1,
+		"DIAGNOSIS_NAME" : "Breast cancer, female",
+		"NAME" : "er",
+		"VALUE" : "Positive"
+	},
+	{
+		"PAT_ID" : "61",
+		"PAT_VISIT_ID" : 1,
+		"DIAGNOSIS_ID" : 1,
+		"DIAGNOSIS_NAME" : "Breast cancer, female",
+		"NAME" : "hist_grade",
+		"VALUE" : "3: High combined histologic grade"
+	},
+	{
+		"PAT_ID" : "61",
+		"PAT_VISIT_ID" : 1,
+		"DIAGNOSIS_ID" : 1,
+		"DIAGNOSIS_NAME" : "Breast cancer, female",
+		"NAME" : "her2neu",
+		"VALUE" : "FISH negative"
+	},
+	{
+		"PAT_ID" : "61",
+		"PAT_VISIT_ID" : 6,
+		"DIAGNOSIS_ID" : 1,
+		"DIAGNOSIS_NAME" : "Breast cancer, female",
+		"NAME" : "location",
+		"VALUE" : "Right breast"
+	},
+	{
+		"PAT_ID" : "61",
+		"PAT_VISIT_ID" : 6,
+		"DIAGNOSIS_ID" : 1,
+		"DIAGNOSIS_NAME" : "Breast cancer, female",
+		"NAME" : "t_val",
+		"VALUE" : "3: size >50mm in greatest dimension"
+	},
+	{
+		"PAT_ID" : "61",
+		"PAT_VISIT_ID" : 6,
+		"DIAGNOSIS_ID" : 1,
+		"DIAGNOSIS_NAME" : "Breast cancer, female",
+		"NAME" : "path_n_val",
+		"VALUE" : "3a: Mets in 10 or more axillary lymph nodes (at least one tumor deposit greater than 2mm) or mets to the infraclavicular lymph nodes"
+	},
+	{
+		"PAT_ID" : "61",
+		"PAT_VISIT_ID" : 6,
+		"DIAGNOSIS_ID" : 1,
+		"DIAGNOSIS_NAME" : "Breast cancer, female",
+		"NAME" : "n_val",
+		"VALUE" : "Pathologic N"
+	},
+	{
+		"PAT_ID" : "61",
+		"PAT_VISIT_ID" : 6,
+		"DIAGNOSIS_ID" : 1,
+		"DIAGNOSIS_NAME" : "Breast cancer, female",
+		"NAME" : "m_val",
+		"VALUE" : "0: No distant metastases"
+	},
+	{
+		"PAT_ID" : "61",
+		"PAT_VISIT_ID" : 1,
+		"DIAGNOSIS_ID" : 1,
+		"DIAGNOSIS_NAME" : "Breast cancer, female",
+		"NAME" : "pr",
+		"VALUE" : "Positive"
+	}
+]
